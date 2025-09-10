@@ -1,9 +1,11 @@
-![Sample Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztL0WzSHxYdzc8FmFZ8pCYA8GxsAThVhioAoQIrfPmnM2527iMnLvRXyd_5VO1xYdRg&usqp=CAU)
 
 
 # Walmart-Sales-Data-Analysis--SQL-Project
 ## About
 We are analysing Walmart's sales data to identify high-performing branches and products, analyze the sales patterns of various products, and understand customer behavior. The primary objective is to enhance and optimize sales strategies. The dataset utilized in this project is sourced from the Kaggle Walmart Sales Forecasting Competition.
+
+![Sample Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztL0WzSHxYdzc8FmFZ8pCYA8GxsAThVhioAoQIrfPmnM2527iMnLvRXyd_5VO1xYdRg&usqp=CAU)
+
 
 ## Purposes of the Project
 The main goal of this project is to gain understanding from Walmart's sales data, exploring the various factors that influence sales across different branches.
@@ -102,4 +104,5 @@ Conducting exploratory data analysis is essential to address the project's liste
 8.	Which time of the day do customers give most ratings per branch?
 9.	Which day of the week has the best avg ratings?
 10.	Which day of the week has the best average ratings per branch?
+
 
