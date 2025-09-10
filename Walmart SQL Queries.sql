@@ -1,3 +1,4 @@
+--Extracting the dataset -----
 CREATE DATABASE IF NOT EXISTS walmart;
 
 USE walmart;
@@ -214,3 +215,4 @@ FROM sales GROUP BY day_name, branch ORDER BY average_rating DESC;
 SELECT  branch, day_name,
 AVG(rating) OVER(PARTITION BY branch) AS rating
 FROM sales GROUP BY branch ORDER BY rating DESC;
+
